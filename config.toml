@@ -35,3 +35,6 @@ highlight_themes_css = [
 
 [extra.github]
 repository_url = "https://github.com/eips-wg/eips-theme"
+
+[search]
+index_format = "fuse_json"
